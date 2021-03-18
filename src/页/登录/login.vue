@@ -7,7 +7,7 @@
         </el-input>
       </div>
       <div class="inp">
-        <el-input placeholder="请输入密码" v-model="password" show-password clearable></el-input>
+        
       </div>
       <div class="inp">
         <el-button type="primary" class="btn">登 录</el-button>
