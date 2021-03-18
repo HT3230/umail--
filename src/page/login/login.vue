@@ -3,7 +3,7 @@
     <div class="box">
       <h1>登录</h1>
       <div class="inp">
-        <el-input placeholder="请输入账号" v-model="input" clearable>
+        <el-input placeholder="请输入" v-model="input" clearable>
         </el-input>
       </div>
       <div class="inp">
